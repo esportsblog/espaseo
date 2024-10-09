@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://esportsblog.github.io/espaseo/sitemap_index.xml
